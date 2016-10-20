@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[FileMapping.sln]
+SCC_Aux_Path = "\\xbserver\vss_prospect\"
+SCC_Project_Name = "$/SPM/SPM_ALL/spm_client1125/Source/FileMapping", CFEUAAAA
+
+[FileMapping.vcproj]
+SCC_Aux_Path = "\\xbserver\vss_prospect\"
+SCC_Project_Name = "$/SPM/SPM_ALL/spm_client1125/Source/FileMapping", CFEUAAAA
